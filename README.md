@@ -2,6 +2,8 @@
 
 This combines [Yard](https://github.com/lsegal/yard) & [puma-dev](https://github.com/puma/puma-dev), so you can read ruby gem documentation offline in your browser. 
 
+![Preview](https://user-images.githubusercontent.com/325384/66766696-a31bca00-eea6-11e9-9008-eb8fdce79edf.png)
+
 ## Setup
 
 Before you start, you will need to have `puma-dev` setup on your local machine. Next run:

@@ -1,6 +1,8 @@
 # Yard Docs
 
-This combines [Yard](https://github.com/lsegal/yard) & [puma-dev](https://github.com/puma/puma-dev), so you can read ruby gem documentation offline in your browser. 
+This combines [Yard](https://github.com/lsegal/yard) & [puma-dev](https://github.com/puma/puma-dev), so you can read ruby gem documentation offline in your browser.
+
+I wrote this as part of a [blog post about yard](https://mikerogers.io/2019/10/14/how-to-use-yard-for-offline-documentation.html) & thought it might help someone else out.
 
 ![Preview](https://user-images.githubusercontent.com/325384/66766696-a31bca00-eea6-11e9-9008-eb8fdce79edf.png)
 
